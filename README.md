@@ -1,5 +1,4 @@
 #Mabreezi-Android
-##Android Application connecting to Blockchain
 
 This is the implementation of the merchant channel via an android application that will enable queries of beneficiary balance as well as posting transactions to the blockchain
 
@@ -17,4 +16,18 @@ After cloning, import the application as an existing project
 
 Install APK to android device
 
+
+#Kibaati Ledger with a persistent REST server
+
+This is the implementation of a business network with a persistent REST server.
+
+## Usage
+  
+### Clone the repository
+  
+```
+git clone https://github.com/kibaati/persistent-kibaati-ledger.git
+```
+
+### Deploy the business network
 
